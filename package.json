@@ -1,6 +1,6 @@
 {
   "name": "quada",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "quada",
   "main": "quada.ts",
   "scripts": {
@@ -11,7 +11,10 @@
     "url": "git+https://github.com/jithinolickal/quada.git"
   },
   "keywords": [
-    "quada"
+    "quada",
+    "flatDataToTree",
+    "data-hierarchy",
+    "tree-data"
   ],
   "author": "Jithin Joseph",
   "license": "MIT",
