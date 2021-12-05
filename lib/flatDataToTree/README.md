@@ -1,13 +1,13 @@
 # Flat Array to tree with hierarchy
 
 Package Name : [quada](https://www.npmjs.com/package/quada)
-Module Name : [quada/flatDataToTree](https://www.npmjs.com/package/quada)
+Module Name : [quada/flatDataToTree](https://github.com/jithinolickal/quada/tree/master/lib/flatDataToTree#flat-array-to-tree-with-hierarchy)
 
 ## What makes quada. this unique
 
 Most of the packages that creates a tree hierarchy need input data to be formated. ie, with a parent to child mapping in each row data.
 
-This is where [quada/flatDataToTree](https://www.npmjs.com/package/quada) comes in.This package makes life easy by having input data as the raw data from your database (any input store). All you have to pass is an arry of heirarchy, which is used to group the data like you want.
+This is where [quada/flatDataToTree](https://github.com/jithinolickal/quada/tree/master/lib/flatDataToTree#flat-array-to-tree-with-hierarchy) comes in.This package makes life easy by having input data as the raw data from your database (any input store). All you have to pass is an arry of heirarchy, which is used to group the data like you want.
 
 ## Installation
 
