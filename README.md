@@ -1,1 +1,1 @@
-"# quada" 
+# quada
